@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teachers>
+<student num="001" name="教师1" gender="女" birth="1964-04-05" idCard="1992000110001" job="教学" depart="计算机学院"/>
+<student num="002" name="教师2" gender="男" birth="1966-06-08" idCard="1994000111001" job="教学" depart="软件学院"/>
+<student num="003" name="教师3" gender="女" birth="1959-12-08" idCard="1993000110011" job="管理" depart="教务处"/>
+<student num="004" name="教师4" gender="女" birth="1964-04-05" idCard="1988000110001" job="教学" depart="计算机学院"/>
+<student num="005" name="教师5" gender="男" birth="1966-06-08" idCard="2000000111001" job="财务" depart="财务部"/>
+<student num="006" name="教师6" gender="女" birth="1959-12-08" idCard="2003000110011" job="辅导员" depart="计算机学院"/>
+</teachers>

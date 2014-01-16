@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+<student num="001" name="魏巍" gender="男" birth="1992-02-16" idCard="2010231040008" classNum="2010231040"/>
+<student num="002" name="古月" gender="男" birth="1991-01-11" idCard="2010231040001" classNum="2010231040"/>
+<student num="003" name="小红" gender="女" birth="1993-12-26" idCard="2010231030011" classNum="2010231030"/>
+<student num="004" name="学生1" gender="女" birth="1994-04-05" idCard="2010000110001" classNum="2010000110"/>
+<student num="005" name="学生2" gender="男" birth="1996-06-08" idCard="2010000111001" classNum="2010000111"/>
+<student num="006" name="学生3" gender="女" birth="1989-12-08" idCard="2010000110011" classNum="2010000110"/>
+</students>

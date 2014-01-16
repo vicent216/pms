@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<postgraduates>
+<postgraduate num="001" name="研究生1" gender="女" birth="1984-04-05" idCard="1984000110001" classNum="0001" major="数学" teacher="001"/>
+<postgraduate num="002" name="研究生2" gender="男" birth="1986-06-08" idCard="1986000111001" classNum="0002" major="计算机" teacher="002"/>
+<postgraduate num="003" name="研究生3" gender="女" birth="1979-12-08" idCard="1979000110011" classNum="0003" major="管理" teacher="001"/>
+<postgraduate num="004" name="研究生4" gender="女" birth="1984-04-05" idCard="1984000110001" classNum="0004" major="软件" teacher="004"/>
+<postgraduate num="005" name="研究生5" gender="男" birth="1986-06-08" idCard="1986000111001" classNum="0301" major="计算机" teacher="004"/>
+<postgraduate num="006" name="研究生6" gender="女" birth="1979-12-08" idCard="1979000110011" classNum="0302" major="数学" teacher="003"/>
+</postgraduates>

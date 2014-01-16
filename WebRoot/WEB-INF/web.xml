@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>pms</display-name>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CenterController</servlet-name>
+    <servlet-class>com.vivi.web.controller.CenterController</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Welcome</servlet-name>
+    <servlet-class>com.vivi.web.controller.Welcome</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>StudentController</servlet-name>
+    <servlet-class>com.vivi.web.controller.StudentController</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>TeacherController</servlet-name>
+    <servlet-class>com.vivi.web.controller.TeacherController</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>PostgraduateController</servlet-name>
+    <servlet-class>com.vivi.web.controller.PostgraduateController</servlet-class>
+  </servlet>
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>CenterController</servlet-name>
+    <url-pattern>/servlet/CenterController</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Welcome</servlet-name>
+    <url-pattern>/servlet/Welcome</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>StudentController</servlet-name>
+    <url-pattern>/servlet/StudentController</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TeacherController</servlet-name>
+    <url-pattern>/servlet/TeacherController</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PostgraduateController</servlet-name>
+    <url-pattern>/servlet/PostgraduateController</url-pattern>
+  </servlet-mapping>
+  <welcome-file-list>
+    <welcome-file>servlet/Welcome</welcome-file>
+
+  </welcome-file-list>
+</web-app>
